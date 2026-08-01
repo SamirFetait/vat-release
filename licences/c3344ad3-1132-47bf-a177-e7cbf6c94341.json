@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "v": 1,
+    "customer": "Samir",
+    "issued": "2026-08-01",
+    "taxIds": [
+      "100000003"
+    ]
+  },
+  "sig": "LZKYnSr4mnN3P2i3aP61IpVFk9yLCrh8/rhWSn5r1Spl8IyWCHABC1AJhgwAE7uMqh5GU0oi9kzcV1ZnjL+jNA=="
+}
